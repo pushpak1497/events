@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.card-image {
+  height: 200px;
+  width: 200px;
+}
+.events-card {
+  width: 50%;
+}
+.text {
+  color: #fff;
+}

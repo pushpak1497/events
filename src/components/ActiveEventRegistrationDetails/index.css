@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.register-image {
+  height: 200px;
+  width: 200px;
+}
+.register-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.register-text {
+  text-align: center;
+}
